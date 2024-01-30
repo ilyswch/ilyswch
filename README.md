@@ -1,2 +1,2 @@
 # Hey, I'm ilyswch 👋
-I spend my free time learning how to program.
+I spend my free time learning how to code
