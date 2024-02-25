@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,3 +10,4 @@
     <h1>Hi from Germany &#128075;</h1>
 </body>
 </html>
+```
